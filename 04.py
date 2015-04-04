@@ -12,4 +12,5 @@ def check_vowel(character):
     else:
         return False
 
+
 print(check_vowel("a".upper()))

@@ -15,4 +15,5 @@ def max_num(num1, num2):
         largest = num2
     return largest
 
+
 print(max_num(3, 6))

@@ -13,4 +13,5 @@ def length():
         string_length += 1
     return string_length
 
+
 print(length())
